@@ -1,0 +1,30 @@
+/* /styles/styles.css */
+
+/* Estilos del Header */
+.header {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos del Footer */
+.footer {
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.back-button {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.back-button:hover {
+    text-decoration: underline;
+}
