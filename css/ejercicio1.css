@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 200px 100px;
+    background-color: coral;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.container div {
+    background: lightblue;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+
