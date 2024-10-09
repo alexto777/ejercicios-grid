@@ -1,6 +1,6 @@
 /* Estilos del encabezado */
 header {
-    background-color: #35424a;
+    background-color: lightseagreen;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -37,7 +37,7 @@ header {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 15px;
-    background-color: #35424a;
+    background-color: lightseagreen;
     color: #ffffff;
     text-decoration: none;
     border-radius: 4px;
@@ -55,7 +55,7 @@ header {
 
 /* Estilos del pie de página */
 footer {
-    background-color: #35424a;
+    background-color: lightseagreen;
     color: #ffffff;
     text-align: center;
     padding: 10px 0;
